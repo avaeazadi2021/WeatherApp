@@ -18,9 +18,8 @@ const input = document.querySelector("#input")
 const form = document.querySelector("form")
 const weatherElement = document.querySelector(".weather")
 
-const apiKey = "4f2e26b21929422fafd143241220402"
-
-const unsplashApiKey = "odvRDPz_Vt2nBeUIw45Kpoms9QPt-mnik0l-wcNI5AA"
+const apiKey = ""
+const unsplashApiKey = ""
 
 // http://api.weatherapi.com/v1/current.json
 
